@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+}
+header{
+    color: green;
+    text-align: center;
+}
+.parents{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+.photo img{
+    width: 250px;
+}
+.button-dtls{
+    text-decoration: none;
+    background-image: linear-gradient(green,red);
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.second-section{
+    text-align: center;
+    margin-top: 50px;
+}
+.dhaka{
+    width: 350px;
+    border: 1px solid gray;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 5px;
+    
+}
+.khulna{
+    width: 350px;
+    border: 1px solid gray;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 5px; 
+}
+.rajshahi{
+    width: 350px;
+    border: 1px solid gray;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 5px;
+}
+
+.div-img img{
+    width: 100%;
+}
+.all-division{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+footer p{
+    text-align: center;
+}
+.details{
+    text-decoration: none;
+    background-color: rgb(12, 169, 231);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+}
